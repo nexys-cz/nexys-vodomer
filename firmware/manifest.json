@@ -5,13 +5,13 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        {
-          "path": "nexys-vodomer.bin",
-          "offset": 0
-        }
+        { "path": "nexys-vodomer.bin", "offset": 0 }
       ],
       "ota": {
-        "path": "nexys-vodomer.bin"
+        "path": "nexys-vodomer.bin",
+        "md5": "e4949ca7a9353ac627f18ad0a8daee2d",
+        "summary": "NEXYS vodoměr 0.1.6",
+        "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/0.1.6"
       }
     }
   ]
