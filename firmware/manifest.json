@@ -6,8 +6,10 @@
       "chipFamily": "ESP32",
       "parts": [
         { "path": "nexys-vodomer.bin", "offset": 0 }
-      ]
+      ],
+      "ota": {
+        "path": "nexys-vodomer.bin"
+      }
     }
   ]
 }
-
