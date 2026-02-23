@@ -7,12 +7,13 @@
       "ota": {
         "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/0.1.7/nexys-vodomer.bin",
         "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/0.1.7",
-        "summary": "Přidán senzor Hostname a vylepšena stabilita OTA. Vyvíjeno s láskou...Váš tým NEXYS!",
+        "summary": "Přidán senzor Hostname a vylepšena stabilita OTA. Vyvíjeno s láskou...Váš tým NEXYS!!!",
         "md5": "29669c45e1ae5d0f4fbe317c83a73d96"
       }
     }
   ]
 }
+
 
 
 
