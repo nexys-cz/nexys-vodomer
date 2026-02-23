@@ -1,0 +1,14 @@
+{
+  "name": "NEXYS Vodoměr",
+  "version": "0.1.5",
+  "home_assistant_domain": "esphome",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "firmware/nexys-vodomer.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
