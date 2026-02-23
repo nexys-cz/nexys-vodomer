@@ -14,8 +14,9 @@
       ],
       "ota": {
         "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/0.1.6/nexys-vodomer.bin",
-        "sha256": "88fbab42cbfc3ba8c7f41359e576b323553567cb156639a253d908de073fc3e8"
+        "md5": "e4949ca7a9353ac627f18ad0a8daee2d",
       }
     }
   ]
 }
+
