@@ -1,17 +1,20 @@
 {
   "name": "NEXYS.vodomer",
   "version": "0.1.6",
+  "summary": "NEXYS vodoměr 0.1.6 - Přidán senzor Hostname a vylepšena stabilita OTA.",
+  "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/0.1.6",
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "nexys-vodomer.bin", "offset": 0 }
+        {
+          "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/0.1.6/nexys-vodomer.bin",
+          "offset": 0
+        }
       ],
       "ota": {
-        "path": "nexys-vodomer.bin",
-        "md5": "e4949ca7a9353ac627f18ad0a8daee2d",
-        "summary": "NEXYS vodoměr 0.1.6",
-        "release_url": "https://github.com/nexys-cz/nexys-vodomer/releases/tag/0.1.6"
+        "path": "https://github.com/nexys-cz/nexys-vodomer/releases/download/0.1.6/nexys-vodomer.bin",
+        "sha256": "88fbab42cbfc3ba8c7f41359e576b323553567cb156639a253d908de073fc3e8"
       }
     }
   ]
